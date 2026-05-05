@@ -1,5 +1,17 @@
 [ 
   {
+    "package": "FLBRP",
+    "url": "https://github.com/flr/FLBRP",
+    "branch": "devel"
+  },
+
+  {
+    "package": "FLasher",
+    "url": "https://github.com/flr/FLasher"
+    "branch": "devel"
+  },
+
+  {
     "package": "wmrkdown",
     "url": "https://github.com/iagomosqueira/wmrkdown"
   }
