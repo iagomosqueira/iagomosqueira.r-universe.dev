@@ -6,6 +6,18 @@
   },
 
   {
+    "package": "mse",
+    "url": "https://github.com/flr/mse",
+    "branch": "devel"
+  },
+
+  {
+    "package": "msemodules",
+    "url": "https://github.com/flr/msemodules",
+    "branch": "devel"
+  },
+
+  {
     "package": "FLasher",
     "url": "https://github.com/flr/FLasher"
     "branch": "devel"
