@@ -6,6 +6,12 @@
   },
 
   {
+    "package": "spict",
+    "url": "https://github.com/iagomosqueira/spict",
+    "branch": "devel"
+  },
+
+  {
     "package": "mse",
     "url": "https://github.com/flr/mse",
     "branch": "devel"
