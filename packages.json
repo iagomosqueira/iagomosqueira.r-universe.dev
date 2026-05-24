@@ -8,8 +8,8 @@
   {
     "package": "spict",
     "url": "https://github.com/iagomosqueira/spict",
-    "branch": "devel",
-    "subdir": "spict"
+    "subdir": "spict",
+    "branch": "devel"
   },
 
   {
