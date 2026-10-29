@@ -30,6 +30,12 @@
   },
 
   {
+    "package": "FLa4a",
+    "url": "https://github.com/flr/FLa4a",
+    "branch": "tmb_translation"
+  },
+
+  {
     "package": "wmrkdown",
     "url": "https://github.com/iagomosqueira/wmrkdown"
   }
