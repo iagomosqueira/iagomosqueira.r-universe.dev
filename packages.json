@@ -1,5 +1,11 @@
 [ 
   {
+    "package": "FLCore"
+    "url": "https://github.com/flr/FLCore",
+    "branch": "devel"
+  },
+
+  {
     "package": "FLBRP",
     "url": "https://github.com/flr/FLBRP",
     "branch": "devel"
