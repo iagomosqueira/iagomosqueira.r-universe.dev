@@ -1,6 +1,6 @@
 [ 
   {
-    "package": "FLCore"
+    "package": "FLCore",
     "url": "https://github.com/flr/FLCore",
     "branch": "devel"
   },
