@@ -1,5 +1,11 @@
 [ 
   {
+    "package": "FLa4a",
+    "url": "https://github.com/flr/FLa4a",
+    "branch": "tmb_translation"
+  },
+
+  {
     "package": "FLCore",
     "url": "https://github.com/flr/FLCore",
     "branch": "devel"
@@ -33,12 +39,6 @@
     "package": "FLasher",
     "url": "https://github.com/flr/FLasher",
     "branch": "devel"
-  },
-
-  {
-    "package": "FLa4a",
-    "url": "https://github.com/flr/FLa4a",
-    "branch": "tmb_translation"
   },
 
   {
