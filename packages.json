@@ -1,11 +1,5 @@
 [ 
   {
-    "package": "FLa4a",
-    "url": "https://github.com/flr/FLa4a",
-    "branch": "tmb_translation"
-  },
-
-  {
     "package": "FLCore",
     "url": "https://github.com/flr/FLCore",
     "branch": "devel"
